@@ -11,3 +11,5 @@ N
 tests/fee-distribution.test.ts,a/4/a4f22c239308aec8b5101848d9318a911243ea57
 I
 contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
+H
+tests/governance.test.ts,c/e/ce14344de9ea9b63c3c2c3228c80d12874bc7dff
