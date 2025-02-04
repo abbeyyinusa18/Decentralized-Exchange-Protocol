@@ -5,3 +5,5 @@ G
 contracts/dex-main.clar,a/b/abd98e7b1096a94802345627425aa8e2c459a533
 F
 tests/dex-main.test.ts,4/f/4f90c6f2eaaf846b99611fb89141b4288aa535de
+O
+contracts/fee-distribution.clar,6/0/6012b98e1354d5129a7a650d1e3983629ca9094e
