@@ -9,3 +9,5 @@ O
 contracts/fee-distribution.clar,6/0/6012b98e1354d5129a7a650d1e3983629ca9094e
 N
 tests/fee-distribution.test.ts,a/4/a4f22c239308aec8b5101848d9318a911243ea57
+I
+contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
